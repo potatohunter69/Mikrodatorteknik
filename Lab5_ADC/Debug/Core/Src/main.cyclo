@@ -1,0 +1,14 @@
+../Core/Src/main.c:78:10:read_one_adc_value	1
+../Core/Src/main.c:88:7:normalize_12bit	1
+../Core/Src/main.c:93:7:normalize_12bit_posneg	1
+../Core/Src/main.c:97:6:print_normalized_value	5
+../Core/Src/main.c:131:1:HAL_ADC_ConvCpltCallback	3
+../Core/Src/main.c:150:7:lm35_to_celsius	1
+../Core/Src/main.c:166:5:main	2
+../Core/Src/main.c:247:6:SystemClock_Config	3
+../Core/Src/main.c:294:13:MX_ADC1_Init	6
+../Core/Src/main.c:373:13:MX_I2C1_Init	2
+../Core/Src/main.c:407:13:MX_TIM2_Init	4
+../Core/Src/main.c:452:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:485:13:MX_GPIO_Init	1
+../Core/Src/main.c:525:6:Error_Handler	1

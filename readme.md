@@ -15,3 +15,12 @@ Through these projects, I have developed and honed a range of skills, including:
 * Analog and Digital Data Processing: Ability to handle and process both analog and digital data.
 * Communication Protocols: Competence in setting up communication between devices.
 P* roblem Solving: Developed a strong analytical and problem-solving mindset.
+
+
+# Installation:
+
+1- [Downlaod STM32](https://www.st.com/en/development-tools/stm32cubeide.html)
+
+2- then clone the repository
+````
+git clone https://github.com/potatohunter69/Mikrodatorteknik
